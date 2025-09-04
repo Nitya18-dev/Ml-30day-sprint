@@ -1,0 +1,50 @@
+rno,name,age,gender,Exam_centre,Level,city,Accountany,Economics,LR,english,Law,total,percentage,passing_status
+11111,Aryan,22,M,Oxford,inter,Jaipur,55,56,50,55,41,257,85.66,Pass
+11112,Aishwarya,19,F, Rawat,foundation,Kota,45,47,49,41,56,238,79.33,Pass
+11113,Ansh,24,M,JVP,final,Jaipur,47,32,40,52,21,192,64,Pass
+11114,Anuradha,21,F,Oxford,inter,Alwar,57,52,51,54,36,250,83.33,Pass
+11115,Kajol,19,F,JVP,foundation,Jaipur,45,55,51,58,60,269,89.66,Pass
+11116,Kareena,23,F, Rawat,final,Kota,60,59,58,51,32,260,86.66,Pass
+11117,Kartik,22,M,JVP,inter,Alwar,49,60,59,55,41,264,88,Pass
+11118,Katrina,21,F,Oxford,inter,Alwar,33,35,30,19,52,169,56.33,Pass
+11119,Lavina,25,F,JVP,final,Bikaner,56,45,59,32,23,215,71.66,Pass
+11120,Lavish,25,M,JVP,final,Alwar,26,32,30,26,42,156,52,Pass
+11121,Manish,24,M,Oxford,inter,Bikaner,41,51,32,41,51,216,72,Pass
+11122,Manju,20,F, Rawat,foundation,Jaipur,56,50,41,56,25,228,76,Pass
+11123,Nikhil,19,M,JVP,foundation,Bikaner,21,41,35,21,50,168,56,Pass
+11124,Nitin,18,M,Oxford,foundation,Kota,36,55,28,36,60,251,83.66,Pass
+11125,Nisha,21,F,Oxford,foundation,Alwar,60,44,50,60,32,246,82,Pass
+11126,Henry,25,M, Rawat,final,Bikaner,32,33,51,32,41,189,63,Pass
+11127,Hannah,26,F,Oxford,final,Alwar,41,39,40,41,55,216,72,Pass
+11128,Jack,24,M,JVP,final,Bikaner,52,51,33,55,40,231,77,Pass
+11129,Jessica,20,F,JVP,foundation,Alwar,23,19,25,40,25,132,44,Fail
+11130,Justin,25,M,Oxford,final,Jaipur,42,44,45,25,55,211,70.33,Pass
+11131,Jayant,24,M,MGD,inter,Kota,51,50,41,55,55,252,84,Pass
+11132,Alia,21,F, Rawat,foundation,Bikaner,30,52,56,55,59,252,84,Pass
+11133,Anirudh,24,M,MGD,inter,Jaipur,19,11,21,59,35,145,48.33,Pass
+11134,Bhavya,21,F,Oxford,foundation,Bikaner,32,27,36,35,45,175,58.33,Pass
+11135,Bhaavana,22,F,MGD,inter,Jaipur,25,32,40,45,32,174,58,Pass
+11136,Chandra ,23,M, Rawat,final,Alwar,55,58,53,52,58,276,92,Pass
+11137,Clay,22,M,Oxford,inter,Jaipur,12,9,21,21,9,72,24,Fail
+11138,Chavi,19,F,Oxford,foundation,Jaipur,60,55,36,40,55,246,82,Pass
+11139,Dharmendra,25,M,MGD,final,Bikaner,35,52,59,51,52,249,83,Pass
+11140,Dhanush,24,M,Oxford,inter,Jaipur,45,22,32,31,22,152,50.66,Fail
+11141,Gauri,22,F,MGD,foundation,Kota,42,31,41,45,31,190,63.33,Pass
+11142,Hema,18,F, Rawat,foundation,Jaipur,51,40,52,51,40,234,78,Pass
+11143,Neetu,24,F,Oxford,final,Kota,25,46,23,52,46,192,64,Pass
+11144,Priyanshi,22,F,MGD,foundation,Alwar,41,52,45,36,52,226,75.33,Pass
+11145,Pankaj,21,M, Rawat,inter,Kota,54,32,41,51,32,210,70,Pass
+11146,Parineeti,25,F,Oxford,final,Alwar,25,32,35,24,32,148,49.33,Fail
+11147,Riya,24,F,Oxford,final,Jaipur,21,10,28,45,10,114,38,Fail
+11148,Ruby,26,F, Rawat,final,Bikaner,60,55,50,30,55,250,83.33,Pass
+11149,Ronaldo,18,M,MGD,foundation,Jaipur,53,60,51,41,60,265,88.33,Pass
+11150,Rohit,26,M,Oxford,final,Jaipur,57,55,44,25,55,236,78.66,Pass
+11151,Siya,19,F,Oxford,foundation,Alwar,60,57,58,60,57,292,97.33,Pass
+11152,Sangeeta,24,F, Rawat,final,Kota,25,20,30,21,45,141,47,Fail
+11153,Suraj,25,M,MGD,final,Bikaner,32,36,25,44,42,179,59.66,Pass
+11154,Tarun,21,M,MGD,inter,Jaipur,41,45,40,41,51,218,72.66,Pass
+11155,Tanya,21,F,Oxford,foundation,Kota,35,42,48,46,25,196,65.33,Pass
+11156,Vansh,26,M, Rawat,final,Alwar,28,51,26,28,45,178,59.33,Pass
+11157,Vamika,18,F,MGD,foundation,Bikaner,50,25,53,54,41,223,74.33,Pass
+11158,Yashika,21,F,Oxford,inter,Bikaner,51,49,50,52,35,237,79,Pass
+11159,Ziya,24,F,MGD,final,Bikaner,19,10,12,16,28,85,28.33,Fail
